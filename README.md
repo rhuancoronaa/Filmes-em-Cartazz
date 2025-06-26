@@ -19,6 +19,8 @@ Projeto desenvolvido inicialmente para o desafio de Mobile e posteriormente adap
 
 🔗 [Acesse o site publicado no GitHub Pages](https://rhuancoronaa.github.io/Filmes-em-Cartazz/)  
 
+## 📁 Como Executar Localmente
+1. Abra o index.html com Live Server ou no navegador.
 
 ## 👨‍💻 Autor
 
